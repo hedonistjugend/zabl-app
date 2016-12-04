@@ -1,0 +1,24 @@
+PODS:
+  - BVLinearGradient (1.5.15):
+    - React
+  - React (0.38.0):
+    - React/Core (= 0.38.0)
+  - React/Core (0.38.0)
+
+DEPENDENCIES:
+  - BVLinearGradient (from `../node_modules/react-native-linear-gradient`)
+  - React (from `../node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  BVLinearGradient:
+    :path: "../node_modules/react-native-linear-gradient"
+  React:
+    :path: "../node_modules/react-native"
+
+SPEC CHECKSUMS:
+  BVLinearGradient: 3136a25195a03abc356752886d98699e4a0b4ffb
+  React: 3cdd13d7c8f6ad5c20216aa83e032f0ce4087944
+
+PODFILE CHECKSUM: 59a46b95b2ff180bacc2596272656e587a59b1bd
+
+COCOAPODS: 1.1.1

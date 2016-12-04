@@ -1,0 +1,27 @@
+{
+    "cards": [{
+        "word": "punditry",
+        "translation": ["ученые мужики; знатоки", "большая ученость; умные разглогольствования"],
+        "partOfSpeech": "существительное"
+    }, {
+        "word": "distinguish",
+        "translation": ["различать"],
+        "partOfSpeech": "глагол"
+    }, {
+        "word": "serendipity",
+        "translation": ["интуитивная прозорливость"],
+        "partOfSpeech": "существительное"
+    }, {
+        "word": "acknowledgement",
+        "translation": ["подтверждение"],
+        "partOfSpeech": "существительное"
+    }, {
+        "word": "lure",
+        "translation": ["приманка"],
+        "partOfSpeech": "существительное"
+    }, {
+        "word": "abandon",
+        "translation": ["отказываться от"],
+        "partOfSpeech": "глагол"
+    }]
+}

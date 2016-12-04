@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+workspace 'zabl.xcworkspace'
+xcodeproj 'zabl.xcodeproj'
+platform :ios, :deployment_target => '7.0'
+
+target :zabl do
+    xcodeproj 'zabl.xcodeproj'
+    pod 'React', :path => '../node_modules/react-native'
+    pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
+end
